@@ -1,5 +1,6 @@
 # Pattern Recognition and Machine Learning (PRML)
-## Python code and implementations
+## In Python
+![MDN](https://i.imgur.com/2uCUY3q.png)
 
 This project is to document my progress in going through Christopher Bishop's PRML book. It contains notebooks to better understand the ideas presented, as well as links to helpful papers and self-made notes.
 
