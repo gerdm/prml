@@ -4,7 +4,6 @@
 
 This project is to document my progress in going through Christopher Bishop's PRML book. It contains notebooks to better understand the ideas presented, as well as links to helpful papers and self-made notes.
 
-
 ```
 .
 ├── README.md
@@ -23,9 +22,9 @@ This project is to document my progress in going through Christopher Bishop's PR
 │   └── robbins-monro.ipynb
 ├── chapter03
 │   ├── Bayesian-linear-regression.ipynb
-│   ├── Linear\ Models\ for\ Regression.ipynb
 │   ├── equivalent-kernel.ipynb
 │   ├── evidence-approximation.ipynb
+│   ├── linear-models-for-regression.ipynb
 │   ├── predictive-distribution.ipynb
 │   └── sequential-bayesian-learning.ipynb
 ├── chapter04
@@ -74,5 +73,8 @@ This project is to document my progress in going through Christopher Bishop's PR
 │   ├── slice-sampling.ipynb
 │   └── transformation-random-variables.ipynb
 └── chapter12
-    └── principal-component-analysis.ipynb
+    ├── principal-component-analysis.ipynb
+    └── probabilistic-pca.ipynb
+
+13 directories, 56 files
 ```
