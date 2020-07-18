@@ -1,8 +1,15 @@
 # Pattern Recognition and Machine Learning (PRML)
-## In Python
+
 ![MDN](https://i.imgur.com/2uCUY3q.png)
 
 This project is to document my progress in going through Christopher Bishop's PRML book. It contains notebooks to better understand the ideas presented, as well as links to helpful papers and self-made notes.
+
+## Useful Links
+* [PRML Book](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning)
+* [Matrix Calculus](http://www.matrixcalculus.org/matrixCalculus)
+* [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
+
+## Content
 
 ```
 .
