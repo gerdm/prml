@@ -8,6 +8,8 @@ This project is to document my progress in going through Christopher Bishop's PR
 * [PRML Book](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning)
 * [Matrix Calculus](http://www.matrixcalculus.org/matrixCalculus)
 * [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
+* [PRML Errata](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/prml-errata-1st-20110921.pdf)
+* [More PRML Errata (repo)](https://github.com/yousuketakada/prml_errata)
 
 ## Content
 
