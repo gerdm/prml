@@ -12,7 +12,6 @@ This project is to document my progress in going through Christopher Bishop's PR
 * [More PRML Errata (repo)](https://github.com/yousuketakada/prml_errata)
 
 ## Content
-
 ```
 .
 ├── README.md
@@ -28,7 +27,8 @@ This project is to document my progress in going through Christopher Bishop's PR
 │   ├── exponential-family.ipynb
 │   ├── mixtures-of-gaussians.ipynb
 │   ├── periodic-variables.ipynb
-│   └── robbins-monro.ipynb
+│   ├── robbins-monro.ipynb
+│   └── students-t-distribution.ipynb
 ├── chapter03
 │   ├── Bayesian-linear-regression.ipynb
 │   ├── equivalent-kernel.ipynb
@@ -81,9 +81,13 @@ This project is to document my progress in going through Christopher Bishop's PR
 │   ├── rejection-sampling.ipynb
 │   ├── slice-sampling.ipynb
 │   └── transformation-random-variables.ipynb
-└── chapter12
-    ├── principal-component-analysis.ipynb
-    └── probabilistic-pca.ipynb
+├── chapter12
+│   ├── bayesian-pca.ipynb
+│   ├── kernel-pca.ipynb
+│   ├── principal-component-analysis.ipynb
+│   └── probabilistic-pca.ipynb
+└── chapter13
+    └── hidden-markov-model.ipynb
 
-13 directories, 56 files
+15 directories, 62 files
 ```
