@@ -87,7 +87,6 @@ This project is to document my progress in going through Christopher Bishop's PR
 │   ├── principal-component-analysis.ipynb
 │   └── probabilistic-pca.ipynb
 └── chapter13
+    └── em-hidden-markov-model.ipynb
     └── hidden-markov-model.ipynb
-
-15 directories, 62 files
 ```
