@@ -2,7 +2,7 @@
 
 ![MDN](https://i.imgur.com/2uCUY3q.png)
 
-This project is to document my progress in going through Christopher Bishop's PRML book. It contains notebooks to better understand the ideas presented, as well as links to helpful papers and self-made notes.
+This project contains Jupyter notebooks of many the algorithms presented in Christopher Bishop's Pattern Recognition and Machine Learning book, as well as replicas for many of the graphs presented in the book.
 
 ## Useful Links
 * [PRML Book](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning)
