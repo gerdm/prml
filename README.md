@@ -2,6 +2,9 @@
 
 ![MDN](https://i.imgur.com/2uCUY3q.png)
 
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/gerdm/prml/tree/master/)
+
+
 This project contains Jupyter notebooks of many the algorithms presented in Christopher Bishop's Pattern Recognition and Machine Learning book, as well as replicas for many of the graphs presented in the book.
 
 ## Useful Links
