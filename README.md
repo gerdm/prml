@@ -87,9 +87,17 @@ This project contains Jupyter notebooks of many the algorithms presented in Chri
 ├── chapter12
 │   ├── bayesian-pca.ipynb
 │   ├── kernel-pca.ipynb
+│   ├── ppca.py
 │   ├── principal-component-analysis.ipynb
 │   └── probabilistic-pca.ipynb
-└── chapter13
-    └── em-hidden-markov-model.ipynb
-    └── hidden-markov-model.ipynb
+├── chapter13
+│   ├── em-hidden-markov-model.ipynb
+│   ├── hidden-markov-model.ipynb
+│   └── linear-dynamical-system.ipynb
+└── misc
+    └── tikz
+        ├── ch13-hmm.tex
+        └── ch8-sum-product.tex
+
+17 directories, 66 files
 ```
