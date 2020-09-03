@@ -1,0 +1,29 @@
+\documentclass{standalone}
+\usepackage{tikz}
+\usetikzlibrary{positioning}
+
+% To convert the document to a png:
+% magick convert -density 200  -trim filename.pdf -quality 100 filename.png
+
+
+\begin{document}
+\begin{tikzpicture}[
+latentnode/.style={circle, draw=red!80, minimum size=6mm, very thick},
+factornode/.style={draw=red!80, fill=red!80, minimum size=6mm, very thick},
+]
+
+\begin{scope}
+
+\node[latentnode, label=above: $x_1$] (x1) {};
+\node[factornode, label=below: $f_a$] (fa) [below right=of x1] {};
+
+\node[latentnode, label=above: $x_2$] (x2) [above right=of fa] {};
+\node[factornode, label=below: $f_b$] (fb) [below right=of x2] {};
+
+\node[latentnode, label=above: $x_3$] (x3) [above right=of fb] {};
+\node[factornode, label=below: $f_c$] (fc) [below right=of x3] {};
+\end{scope}
+
+\end{tikzpicture}
+
+\end{document}
