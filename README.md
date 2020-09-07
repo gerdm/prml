@@ -94,6 +94,8 @@ This project contains Jupyter notebooks of many the algorithms presented in Chri
 │   ├── em-hidden-markov-model.ipynb
 │   ├── hidden-markov-model.ipynb
 │   └── linear-dynamical-system.ipynb
+├── chapter14
+│   └── boosting.ipynb
 └── misc
     └── tikz
         ├── ch13-hmm.tex
