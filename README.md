@@ -95,11 +95,13 @@ This project contains Jupyter notebooks of many the algorithms presented in Chri
 │   ├── hidden-markov-model.ipynb
 │   └── linear-dynamical-system.ipynb
 ├── chapter14
-│   └── boosting.ipynb
+│   ├── CART.ipynb
+│   ├── boosting.ipynb
+│   └── tree.py
 └── misc
     └── tikz
         ├── ch13-hmm.tex
         └── ch8-sum-product.tex
 
-17 directories, 66 files
+17 directories, 68 files
 ```
