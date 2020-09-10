@@ -60,12 +60,12 @@ This project contains Jupyter notebooks of many the algorithms presented in Chri
 ├── chapter07
 │   └── RVMs.ipynb
 ├── chapter08
-│   ├── Trees.ipynb
 │   ├── exercises.ipynb
 │   ├── graphical-model-inference.ipynb
 │   ├── img.jpeg
 │   ├── markov-random-fields.ipynb
-│   └── sum-product.ipynb
+│   ├── sum-product.ipynb
+│   └── trees.ipynb
 ├── chapter09
 │   ├── gaussian-mixture-models.ipynb
 │   ├── k-means.ipynb
@@ -97,11 +97,13 @@ This project contains Jupyter notebooks of many the algorithms presented in Chri
 ├── chapter14
 │   ├── CART.ipynb
 │   ├── boosting.ipynb
+│   ├── cmm-linear-regression.ipynb
+│   ├── cmm-logistic-regression.ipynb
 │   └── tree.py
 └── misc
     └── tikz
         ├── ch13-hmm.tex
         └── ch8-sum-product.tex
 
-17 directories, 68 files
+17 directories, 70 files
 ```
