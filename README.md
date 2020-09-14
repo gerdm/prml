@@ -19,9 +19,9 @@ This project contains Jupyter notebooks of many the algorithms presented in Chri
 .
 ├── README.md
 ├── chapter01
-│   ├── ch1_ex_tests.ipynb
 │   ├── chapter1.ipynb
-│   └── einsum.ipynb
+│   ├── einsum.ipynb
+│   └── exercises.ipynb
 ├── chapter02
 │   ├── Exercises.ipynb
 │   ├── bayes-binomial.ipynb
@@ -33,7 +33,7 @@ This project contains Jupyter notebooks of many the algorithms presented in Chri
 │   ├── robbins-monro.ipynb
 │   └── students-t-distribution.ipynb
 ├── chapter03
-│   ├── Bayesian-linear-regression.ipynb
+│   ├── bayesian-linear-regression.ipynb
 │   ├── equivalent-kernel.ipynb
 │   ├── evidence-approximation.ipynb
 │   ├── linear-models-for-regression.ipynb
@@ -46,9 +46,9 @@ This project contains Jupyter notebooks of many the algorithms presented in Chri
 │   ├── logistic-regression.ipynb
 │   └── perceptron.ipynb
 ├── chapter05
-│   ├── Ellipses.ipynb
 │   ├── backpropagation.ipynb
 │   ├── bayesian-neural-networks.ipynb
+│   ├── ellipses.ipynb
 │   ├── imgs
 │   │   └── f51.png
 │   ├── mixture-density-networks.ipynb
