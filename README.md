@@ -19,9 +19,9 @@ This project contains Jupyter notebooks of many the algorithms presented in Chri
 .
 ├── README.md
 ├── chapter01
-│   ├── chapter1.ipynb
 │   ├── einsum.ipynb
-│   └── exercises.ipynb
+│   ├── exercises.ipynb
+│   └── introduction.ipynb
 ├── chapter02
 │   ├── Exercises.ipynb
 │   ├── bayes-binomial.ipynb
