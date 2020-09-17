@@ -28,6 +28,7 @@ This project contains Jupyter notebooks of many the algorithms presented in Chri
 │   ├── bayes-normal.ipynb
 │   ├── density-estimation.ipynb
 │   ├── exponential-family.ipynb
+│   ├── gamma-distribution.ipynb
 │   ├── mixtures-of-gaussians.ipynb
 │   ├── periodic-variables.ipynb
 │   ├── robbins-monro.ipynb
@@ -105,5 +106,5 @@ This project contains Jupyter notebooks of many the algorithms presented in Chri
         ├── ch13-hmm.tex
         └── ch8-sum-product.tex
 
-17 directories, 70 files
+17 directories, 71 files
 ```
