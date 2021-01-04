@@ -7,6 +7,9 @@
 
 This project contains Jupyter notebooks of many the algorithms presented in Christopher Bishop's Pattern Recognition and Machine Learning book, as well as replicas for many of the graphs presented in the book.
 
+## Discussions (new)
+If you have any questions and/or requests, check out the [discussions](https://github.com/gerdm/prml/discussions) page!
+
 ## Useful Links
 * [PRML Book](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning)
 * [Matrix Calculus](http://www.matrixcalculus.org/matrixCalculus)
