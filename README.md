@@ -41,6 +41,7 @@ If you have any questions and/or requests, check out the [discussions](https://g
 │   ├── equivalent-kernel.ipynb
 │   ├── evidence-approximation.ipynb
 │   ├── linear-models-for-regression.ipynb
+│   ├── ml-vs-map.ipynb
 │   ├── predictive-distribution.ipynb
 │   └── sequential-bayesian-learning.ipynb
 ├── chapter04
@@ -62,7 +63,8 @@ If you have any questions and/or requests, check out the [discussions](https://g
 │   ├── gaussian-processes.ipynb
 │   └── kernel-regression.ipynb
 ├── chapter07
-│   └── RVMs.ipynb
+│   ├── RVMs.ipynb
+│   └── support-vector-machines.ipynb
 ├── chapter08
 │   ├── exercises.ipynb
 │   ├── graphical-model-inference.ipynb
@@ -109,5 +111,5 @@ If you have any questions and/or requests, check out the [discussions](https://g
         ├── ch13-hmm.tex
         └── ch8-sum-product.tex
 
-17 directories, 71 files
+17 directories, 73 files
 ```
