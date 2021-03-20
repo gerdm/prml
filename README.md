@@ -63,7 +63,7 @@ If you have any questions and/or requests, check out the [discussions](https://g
 │   ├── gaussian-processes.ipynb
 │   └── kernel-regression.ipynb
 ├── chapter07
-│   ├── RVMs.ipynb
+│   ├── relevance-vector-machines.ipynb
 │   └── support-vector-machines.ipynb
 ├── chapter08
 │   ├── exercises.ipynb
